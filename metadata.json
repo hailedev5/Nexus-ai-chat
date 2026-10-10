@@ -1,0 +1,6 @@
+{
+  "name": "Nexus - AI & People Social Chat",
+  "description": "Connect, collaborate, and chat in dynamic rooms where real people personas and intelligent AI companions interact seamlessly in real time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
