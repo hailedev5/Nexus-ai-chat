@@ -1,4 +1,8 @@
 {
+"Name":"nexus-ai",
+"Api_confugration":"Google Ai studio"
+}
+{
   "compilerOptions": {
     "target": "ES2022",
     "experimentalDecorators": true,
